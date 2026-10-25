@@ -1,0 +1,29 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and cache
+.vscode/
+.idea/
+.pytest_cache/
+
+# Logs
+*.log
+# Node.js dependencies and build cache
+node_modules/
+**/node_modules/
+.vite/
+dist/
+
+# Python environments
+.venv/
+venv/
